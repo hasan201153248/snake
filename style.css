@@ -1,0 +1,27 @@
+#gameBoard {
+    border: 2px solid #000;
+}
+
+#scoreText {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#resetBtn {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    padding: 8px 16px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+}
+
+#resetBtn:hover {
+    background-color: #2980b9;
+}
+
+/* Add more styling based on your preference */
